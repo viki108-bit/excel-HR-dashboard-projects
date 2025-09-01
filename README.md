@@ -1,4 +1,4 @@
-# excel-HR-dashboard-projects
+# Excel-HR-dashboard-projects
 Excel Dashboards for  HR Analytics – created as part of Data Science learning
 This project is an **Excel-based HR Analytics Dashboard** created as part of my **Data Science learning journey**.  
 It provides valuable insights into employee data such as headcount, attrition, gender distribution, and age demographics.  
